@@ -9,7 +9,7 @@ import pers.yue.test.performance.runner.LoopRunner;
 import pers.yue.test.performance.stat.RequestResult;
 import pers.yue.test.testcase.TestCase;
 import pers.yue.test.util.Md5TestUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.io.InputStream;
 

@@ -2,7 +2,7 @@ package pers.yue.test.performance.stat;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.util.Map;
 import java.util.TreeMap;

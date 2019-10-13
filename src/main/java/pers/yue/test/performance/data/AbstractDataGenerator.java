@@ -1,6 +1,6 @@
 package pers.yue.test.performance.data;
 
-import pers.yue.util.StringUtil;
+import pers.yue.common.util.StringUtil;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

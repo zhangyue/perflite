@@ -1,4 +1,4 @@
-package pers.yue.util;
+package pers.yue.common.util;
 
 import com.amazonaws.util.Md5Utils;
 import org.apache.commons.codec.DecoderException;
@@ -15,8 +15,8 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-import static pers.yue.util.LogUtil.LOG_LEVEL_VV_FUNCTIONAL;
-import static pers.yue.util.LogUtil.LOG_LEVEL_V_LIGHT_STRESS;
+import static pers.yue.common.util.LogUtil.LOG_LEVEL_VV_FUNCTIONAL;
+import static pers.yue.common.util.LogUtil.LOG_LEVEL_V_LIGHT_STRESS;
 
 /**
  * Created by Zhang Yue on 3/20/2018

@@ -1,8 +1,8 @@
 package pers.yue.test.performance.report;
 
 import pers.yue.test.util.FileTestUtil;
-import pers.yue.util.DateUtil;
-import pers.yue.util.MathUtil;
+import pers.yue.common.util.DateUtil;
+import pers.yue.common.util.MathUtil;
 
 import java.io.File;
 

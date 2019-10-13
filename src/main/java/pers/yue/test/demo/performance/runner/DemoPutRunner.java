@@ -8,7 +8,7 @@ import pers.yue.test.performance.data.DataGenerator;
 import pers.yue.test.performance.data.DataInfo;
 import pers.yue.test.performance.runner.LoopRunner;
 import pers.yue.test.performance.stat.RequestResult;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.io.File;
 

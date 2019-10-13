@@ -1,4 +1,4 @@
-package pers.yue.util;
+package pers.yue.common.util;
 
 import org.apache.commons.lang.ArrayUtils;
 import org.slf4j.Logger;

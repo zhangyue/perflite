@@ -1,7 +1,7 @@
 package pers.yue.test.demo.performance.test;
 
 import org.testng.annotations.BeforeSuite;
-import pers.yue.util.PropertiesUtil;
+import pers.yue.common.util.PropertiesUtil;
 
 /**
  * Demo base test class of implementing performance test tool with the performance test core module.

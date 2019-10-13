@@ -1,4 +1,4 @@
-package pers.yue.util;
+package pers.yue.common.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

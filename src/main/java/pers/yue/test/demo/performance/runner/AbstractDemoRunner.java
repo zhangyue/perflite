@@ -6,7 +6,7 @@ import pers.yue.test.demo.performance.client.DemoClient;
 import pers.yue.test.performance.config.PerfConfig;
 import pers.yue.test.performance.runner.AbstractPerfRunner;
 import pers.yue.test.performance.runner.PerfRunner;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 /**
  * The abstract class that holds the member variables that are common to different test runners. E.g. Client of your SUT.

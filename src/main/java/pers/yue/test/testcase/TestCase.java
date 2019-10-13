@@ -5,8 +5,8 @@ import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 import org.testng.SkipException;
 import pers.yue.exceptions.runtime.TestRunException;
-import pers.yue.util.StringUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.StringUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.util.Date;
 import java.util.List;

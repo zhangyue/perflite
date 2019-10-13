@@ -3,8 +3,8 @@ package pers.yue.test.performance.stat;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import pers.yue.test.performance.report.Reporter;
-import pers.yue.util.MathUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.MathUtil;
+import pers.yue.common.util.ThreadUtil;
 
 /**
  * A class that describes test statistic metrics in a sampling interval.

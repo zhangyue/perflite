@@ -13,8 +13,8 @@ import pers.yue.test.performance.stat.GlobalStat;
 import pers.yue.test.performance.stat.RequestResult;
 import pers.yue.test.performance.stat.StatInfo;
 import pers.yue.test.performance.stat.ThreadStat;
-import pers.yue.util.LogUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.LogUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;

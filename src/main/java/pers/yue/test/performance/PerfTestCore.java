@@ -10,13 +10,13 @@ import pers.yue.test.performance.report.Reporter;
 import pers.yue.test.performance.runner.PerfRunner;
 import pers.yue.test.performance.stat.StatInfo;
 import pers.yue.test.testcase.TestCase;
-import pers.yue.util.LogUtil;
-import pers.yue.util.PropertiesUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.LogUtil;
+import pers.yue.common.util.PropertiesUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.io.File;
 
-import static pers.yue.util.PropertiesUtil.parseProperty;
+import static pers.yue.common.util.PropertiesUtil.parseProperty;
 
 /**
  * Performance test core class.

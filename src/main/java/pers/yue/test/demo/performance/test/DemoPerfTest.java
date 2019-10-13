@@ -14,11 +14,11 @@ import pers.yue.test.performance.config.PercentFilter;
 import pers.yue.test.performance.data.DataGenerator;
 import pers.yue.test.performance.data.PoolDataGenerator;
 import pers.yue.test.performance.stat.StatInfo;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
-import static pers.yue.util.FileUtil.MB;
-import static pers.yue.util.PropertiesUtil.parseAlternativeSizeProperty;
-import static pers.yue.util.PropertiesUtil.parseProperty;
+import static pers.yue.common.util.FileUtil.MB;
+import static pers.yue.common.util.PropertiesUtil.parseAlternativeSizeProperty;
+import static pers.yue.common.util.PropertiesUtil.parseProperty;
 
 /**
  * Demo test class of implementing performance test tool with the performance test core module.

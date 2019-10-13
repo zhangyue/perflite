@@ -3,7 +3,7 @@ package pers.yue.test.performance.data;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import pers.yue.test.util.Md5TestUtil;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 import java.io.File;
 import java.util.ArrayList;

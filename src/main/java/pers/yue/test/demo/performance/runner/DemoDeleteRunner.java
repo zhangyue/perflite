@@ -7,7 +7,7 @@ import pers.yue.test.performance.config.PerfConfig;
 import pers.yue.test.performance.runner.IteratorRunner;
 import pers.yue.test.performance.runner.LoopRunner;
 import pers.yue.test.performance.stat.RequestResult;
-import pers.yue.util.ThreadUtil;
+import pers.yue.common.util.ThreadUtil;
 
 /**
  * Demo DELETE runner

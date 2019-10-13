@@ -1,4 +1,4 @@
-package pers.yue.util;
+package pers.yue.common.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,7 +8,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
-import static pers.yue.util.StringUtil.*;
+import static org.apache.commons.lang.math.NumberUtils.toInt;
+import static pers.yue.common.util.StringUtil.toBoolean;
+import static pers.yue.common.util.StringUtil.toLong;
 
 /**
  * Created by zhangyue58 on 2018/01/10
